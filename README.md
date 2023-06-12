@@ -1,2 +1,6 @@
-# alzheimer
-Classification of Alzheimer's Disease and beyond - Graduation Thesis
+## Deep Learning Approaches For Alzheimer's Disease Diagnosis
+
+The well-known form of dementia, Alzheimer's disease (AD), is a serious concern in modern healthcare. A loss of cognitive function is the hallmark of AD, a degenerative brain condition that is irreversible and for which there is no known treatment. Recent research efforts in machine learning and deep learning offer groundbreaking experimental solutions using radiomics data and computer vision applications for medical diagnosis, prognosis and treatment planning. However, the phenomenon of explainability requirement of medical data remains an important problem that needs to be overcome. Since 2014, deep learning methods have started to receive significant consideration in research on AD diagnosis, and the volume of publications published is rapidly increasing. The rise in the number of publications also revealed many technical implementation complications and uncertainties. Therefore, approving current literature and providing certain standards gain more importance in order to reduce the technical mistakes made. In this study, the ambiguity involved, have been tried to be explained as clearly as possible with an end-to-end approach from raw 3D MR images that provided by Alzheimer’s Disease Neuroimaging Initiative (ADNI) to training and interpretation of results.
+
+
+In this repo, we provide some utilizations that can be done on 3D MR images, and 2D slice-based application of ADNI.
